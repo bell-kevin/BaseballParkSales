@@ -20,9 +20,13 @@ In the main method, create an Array List to hold 2 food objects and 2 souvenir o
 To declare the objects, here are the values used in the sample session:
 
 One Food item has name "hot dog", unit cost of $2.50, quantity on hand is 20
+
 One Food item has name "soda", unit cost of $3.00, quantity on hand is 30
+
 One Souvenir item has name "balloon", unit cost of $1.00, quantity on hand is 200
+
 One Souvenir item has name "team cap", unit cost of $12.50, quantity of 50
+
 You may instantiate each of these objects into object variables and then add those variables to the Array List. OR you may instantiate anonymous objects to the Array List.
 
 Display the vendor's inventory using a for-each loop to iterate across the Array List. Here is a sample of the beginning of the project, listing the inventory items:
