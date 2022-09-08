@@ -3,6 +3,8 @@ In Competency Exercises, you demonstrate your skill and ability to use the progr
 
 Write unit tests to verify the results of your project. Include at least 5 sets of test data. Take screenshots of the successful unit test.
 
+![all unit tests passed](https://github.com/bell-kevin/BaseballParkSales/blob/main/all%20unit%20tests%20passed.PNG)
+
 Module 2 Competency Project: Baseball Park Sales
 
 In this project, you will simulate sales by the vendors in the stands at a baseball park. They walk around selling hot dogs, bottles of soda, team-logo ball caps, and balloons, in this simulation. These items are 2 categories of inventory -- food and souvenirs. Food items have a 10% tax. Souvenir items have a 5% tax. Also, it is possible to get volume discounts on souvenir items. There are 2 discounts available -- if you buy more than 15 items, the discount rate is 15%; if you buy more than 8 items, the discount rate is 5%. Notice these discounts are to the sale of each item, before any sales tax is applied. When the sale qualifies for a discount, print a message with the discount rate (see images below).
