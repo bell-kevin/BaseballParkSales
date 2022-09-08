@@ -3,8 +3,6 @@ In Competency Exercises, you demonstrate your skill and ability to use the progr
 
 Write unit tests to verify the results of your project. Include at least 5 sets of test data. Take screenshots of the successful unit test.
 
- 
-
 Module 2 Competency Project: Baseball Park Sales
 
 In this project, you will simulate sales by the vendors in the stands at a baseball park. They walk around selling hot dogs, bottles of soda, team-logo ball caps, and balloons, in this simulation. These items are 2 categories of inventory -- food and souvenirs. Food items have a 10% tax. Souvenir items have a 5% tax. Also, it is possible to get volume discounts on souvenir items. There are 2 discounts available -- if you buy more than 15 items, the discount rate is 15%; if you buy more than 8 items, the discount rate is 5%. Notice these discounts are to the sale of each item, before any sales tax is applied. When the sale qualifies for a discount, print a message with the discount rate (see images below).
@@ -31,35 +29,27 @@ You may instantiate each of these objects into object variables and then add tho
 
 Display the vendor's inventory using a for-each loop to iterate across the Array List. Here is a sample of the beginning of the project, listing the inventory items:
 
-Ch 14 Baseball Inventory launch
+![Ch 14 Baseball Inventory launch]()
 
 Next, using a for-each loop, "sell" each item 2 times. That for-each loop will perform these tasks: (1) Print a header with the name of the object being purchased, and display the single item. (2) Use a For loop inside of the for-each loop to perform 2 sales. In each sale, (2a) ask the user how many of that item they want, (2b) use the sell method for the item to get the cost for that sale (zero means not enough quantity on hand, and any other number is the cost of a good sale). (2c) If it's a good sale, display the cost, using appropriate formatting for the numbers representing money. If it's an invalid sale, display a message. (2d) Display the single item again to see any change in inventory.
 
 Here is a sample session for selling the food items. Notice that each one has an invalid sale.
 
-Ch 14 Baseball Inventory food
+![Ch 14 Baseball Inventory food]()
 
 Here is a sample session for selling souvenir items. Notice the volume discounts in three of the sales, and the invalid sale.
 
-Ch 14 Baseball Inventory souvenir
+![Ch 14 Baseball Inventory souvenir]()
 
 After all of the items have been sold 2 times, display the final inventory, using a for-each loop to display each item.
 
 Here is a sample of that final inventory listing:
 
-Ch 14 Baseball Inventory final
-
-Example
-
-![example](https://github.com/bell-kevin/BaseballParkSales/blob/main/c14-inventory.PNG)
+![Ch 14 Baseball Inventory final]()
 
 Run the project to match the samples, take screenshots like the examples above. Change all of the data about the objects in the Array list and run the project, being sure to include some invalid sales and at least 1 of each discount rate; take screenshots.
 
- 
-
 Submission: the specified screenshots (of execution of the project and successful unit tests) and the root folder for the project
-
- 
 
 Pay careful attention to the rubric for this assignment.
 
