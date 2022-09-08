@@ -9,8 +9,8 @@ package baseballparksales;
 
 public interface Tax {
 
-    double FOOD_TAX = .04;
-    double ITEM_TAX = .10;
+    double FOOD_TAX = .10;
+    double ITEM_TAX = .05;
 
     double taxCalc(double unitCost);
 } // end interface Tax
