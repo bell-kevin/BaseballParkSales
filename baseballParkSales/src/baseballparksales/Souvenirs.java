@@ -35,6 +35,7 @@ public class Souvenirs extends Inventory {
 
 // ((unitPrice*qty)-((unitPrice*qty)*DISCOUNT_RATE_15))+(((unitPrice*qty)-
 // ((unitPrice*qty)*DISCOUNT_RATE_15))*SOUVENIRS_TAX) = 22.3125
+// (25-(25*.15))+((25-(25*.15))*.05) = 22.3125
     } // end souvenirBulkDiscountCalc method
 //******************************************************************************
 
