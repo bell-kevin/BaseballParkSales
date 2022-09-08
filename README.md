@@ -49,6 +49,10 @@ Here is a sample of that final inventory listing:
 
 Ch 14 Baseball Inventory final
 
+Example
+
+![example](https://github.com/bell-kevin/BaseballParkSales/blob/main/c14-inventory.PNG)
+
 Run the project to match the samples, take screenshots like the examples above. Change all of the data about the objects in the Array list and run the project, being sure to include some invalid sales and at least 1 of each discount rate; take screenshots.
 
  
