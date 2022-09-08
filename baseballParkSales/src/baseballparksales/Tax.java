@@ -2,10 +2,15 @@
  * Tax.java
  * Kevin Bell
  *
- * This program interface simulates taxes on sales at a baseball park
+ * This interface simulates tax on inventory sales for food & non-food items
+ * at a baseball park.
  **************************************************************************** */
 package baseballparksales;
 
 public interface Tax {
 
-}
+    double FOOD_TAX = .04;
+    double ITEM_TAX = .10;
+
+    double taxCalc(double unitCost);
+} // end interface Tax
