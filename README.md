@@ -29,23 +29,23 @@ You may instantiate each of these objects into object variables and then add tho
 
 Display the vendor's inventory using a for-each loop to iterate across the Array List. Here is a sample of the beginning of the project, listing the inventory items:
 
-![Ch 14 Baseball Inventory launch]()
+![Ch 14 Baseball Inventory launch](https://github.com/bell-kevin/BaseballParkSales/blob/main/c14-baseball-launch.PNG)
 
 Next, using a for-each loop, "sell" each item 2 times. That for-each loop will perform these tasks: (1) Print a header with the name of the object being purchased, and display the single item. (2) Use a For loop inside of the for-each loop to perform 2 sales. In each sale, (2a) ask the user how many of that item they want, (2b) use the sell method for the item to get the cost for that sale (zero means not enough quantity on hand, and any other number is the cost of a good sale). (2c) If it's a good sale, display the cost, using appropriate formatting for the numbers representing money. If it's an invalid sale, display a message. (2d) Display the single item again to see any change in inventory.
 
 Here is a sample session for selling the food items. Notice that each one has an invalid sale.
 
-![Ch 14 Baseball Inventory food]()
+![Ch 14 Baseball Inventory food](https://github.com/bell-kevin/BaseballParkSales/blob/main/c14-baseball-food.PNG)
 
 Here is a sample session for selling souvenir items. Notice the volume discounts in three of the sales, and the invalid sale.
 
-![Ch 14 Baseball Inventory souvenir]()
+![Ch 14 Baseball Inventory souvenir](https://github.com/bell-kevin/BaseballParkSales/blob/main/c14-baseball-stuff.PNG)
 
 After all of the items have been sold 2 times, display the final inventory, using a for-each loop to display each item.
 
 Here is a sample of that final inventory listing:
 
-![Ch 14 Baseball Inventory final]()
+![Ch 14 Baseball Inventory final](https://github.com/bell-kevin/BaseballParkSales/blob/main/c14-baseball-final.PNG)
 
 Run the project to match the samples, take screenshots like the examples above. Change all of the data about the objects in the Array list and run the project, being sure to include some invalid sales and at least 1 of each discount rate; take screenshots.
 
