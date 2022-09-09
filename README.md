@@ -3,7 +3,7 @@ In Competency Exercises, you demonstrate your skill and ability to use the progr
 
 Write unit tests to verify the results of your project. Include at least 5 sets of test data. Take screenshots of the successful unit test.
 
-![all unit tests passed](https://github.com/bell-kevin/BaseballParkSales/blob/main/all%20unit%20tests%20passed.PNG)
+![all unit tests passed](https://github.com/bell-kevin/BaseballParkSales/blob/main/way%20better%20unit%20tests%20-%20all%20passed.PNG)
 
 Module 2 Competency Project: Baseball Park Sales
 
