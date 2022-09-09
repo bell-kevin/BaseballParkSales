@@ -53,6 +53,8 @@ Run the project to match the samples, take screenshots like the examples above. 
 
 Submission: the specified screenshots (of execution of the project and successful unit tests) and the root folder for the project
 
+![all correct output](https://github.com/bell-kevin/BaseballParkSales/blob/main/i%20did%20it!.PNG)
+
 Pay careful attention to the rubric for this assignment.
 
 Note that you must use correct formatting in the code -- appropriate indentation is most important. You can use Shift-Alt-F to have NetBeans automatically format the code correctly. If the formatting is incorrect, it will be returned to you for changes with a grade of zero.
