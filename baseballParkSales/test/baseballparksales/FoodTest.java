@@ -44,5 +44,5 @@ public class FoodTest {
         food = new Food(15, "test", 2.50);
         double actual = food.calcCost(qnty);
         assertEquals(result, actual, 0.01);
-    } // end test class
+    } // end test method
 } // end j unit test class
